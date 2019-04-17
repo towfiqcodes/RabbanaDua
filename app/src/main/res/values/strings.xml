@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Rabbana Dua</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="like_join_with_us"><![CDATA[Like & Join With Us.]]></string>
+    <string name="rabbana1">রাব্বানা ওয়ায-আলনা মুসলিমেনি লাকা</string>
+    <string name="aiyat128">সূরা আল বাক্বারাহ,আয়াত 128</string>
+    <string name="arabic_sura1">رَبَّنَا وَاجۡعَلۡنَا مُسۡلِمَيۡنِ لَـكَ وَ مِنۡ ذُرِّيَّتِنَآ اُمَّةً مُّسۡلِمَةً لَّكَ وَاَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَا ۚ اِنَّكَ اَنۡتَ التَّوَّابُ الرَّحِيۡم</string>
+    <string name="pronunciation">উচ্চারণ</string>
+    <string name="arabic_pro1">রব্বানা- অজ্ব্ ্‘আল্না- মুস্লিমাইনি লাকা অমিন্ র্যুরিয়্যাতিনা- উম্মাতাম্ মুস্লিমাতাল্লাকাঅআরিনা-মানা-সিকানা-অতুব্ ‘আলাইনা-ইন্নাকা আন্তাত্ তাওয়্যা-র্বু রাহীম্।</string>
+    <string name="answer1">অর্থ</string>
+    <string name="arabic_answer1">পরওয়ারদেগার! আমাদের উভয়কে তোমার আজ্ঞাবহ কর এবং আমাদের বংশধর থেকেও একটি অনুগত দল সৃষ্টি কর, আমাদের হজ্বের রীতিনীতি বলে দাও এবং আমাদের ক্ষমা কর। নিশ্চয় তুমি তওবা কবুলকারী। দয়ালু।</string>
+    <string name="fojilot1">১। এই দোয়াটি হযরত ইবরাহীম (আঃ) নিয়মিত করতেন। </string>
+
+    <string-array name="data">
+        <item  type="id">রাব্বানা ওয়ায-আলনা মুসলিমেনি লাকা</item>
+        <item  type="id">রাব্বানা তাকাব্বাল মিন্না ইন্নাকা আন্তাস</item>
+        <item  type="id">রাব্বানা আতিনা ফিদ-দু-নিয়া হাসানাতান</item>
+        <item  type="id">রাব্বানা আফ্রিঘ আলাইনা সাব-রান</item>
+        <item type="id">রাব্বানা লা তু-আখিধনা ইন-নাসিনা</item>
+        <item type="id">রাব্বানা ওয়ালা তাহ-মিল আলাইনা</item>
+        <item type="id">রাব্বানা ওয়ালা তুহাম্মিলনা মা লা তাকাতা</item>
+        <item type="id">রাব্বানা লা তুযিঘ কুলুবানা বা-দা ইয</item>
+        <item type="id">রাব্বানা ইন্নাকা যামি-উন্নাচি লি-ইয়াওমিল</item>
+        <item type="id">রাব্বানা ইন্নানা আমান্না ফাঘফির</item>
+        <item type="id">রাব্বানা আমান্না বিমা আনযালতা</item>
+        <item type="id">রাব্বানাঘফির লানা যুনুবানা ওয়া</item>
+        <item type="id">রাব্বানা মা খালাকতা হাযা বাতিলা</item>
+        <item type="id">রাব্বানা ইন্নাকা মান তুদখিলিন নারা</item>
+
+
+    </string-array>
+
+</resources>
