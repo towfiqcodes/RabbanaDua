@@ -8,7 +8,18 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.Toast;
+
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban1;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban11;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban12;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban13;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban14;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban15;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban16;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban17;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban18;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban19;
+import com.eomsbd.rabbanadua.rabbana_activity.Rabban20;
 
 public class ShowActivity extends AppCompatActivity  {
 
@@ -32,12 +43,51 @@ public class ShowActivity extends AppCompatActivity  {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 String name = (String) parent.getItemAtPosition(position);
                 if (position == 0) {
-
                     Intent intent=new Intent(ShowActivity.this, Rabban1.class);
                     intent.putExtra("name",name);
                     startActivity(intent);
-
+                }else if (position==10){
+                    Intent intent=new Intent(ShowActivity.this, Rabban11.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==11){
+                    Intent intent=new Intent(ShowActivity.this, Rabban12.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==12){
+                    Intent intent=new Intent(ShowActivity.this, Rabban13.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==13){
+                    Intent intent=new Intent(ShowActivity.this, Rabban14.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==14){
+                    Intent intent=new Intent(ShowActivity.this, Rabban15.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==15){
+                    Intent intent=new Intent(ShowActivity.this, Rabban16.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==16){
+                    Intent intent=new Intent(ShowActivity.this, Rabban17.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==17){
+                    Intent intent=new Intent(ShowActivity.this, Rabban18.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==18){
+                    Intent intent=new Intent(ShowActivity.this, Rabban19.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
+                }else if (position==19){
+                    Intent intent=new Intent(ShowActivity.this, Rabban20.class);
+                    intent.putExtra("name",name);
+                    startActivity(intent);
                 }
+
             }
         });
 
