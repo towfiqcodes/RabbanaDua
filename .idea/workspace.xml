@@ -2,7 +2,18 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="Nexus 6P" />
+        <device id="pixel_xl" />
+        <device id="pixel_2" />
+        <device id="pixel_2_xl" />
+        <device id="Nexus 6" />
+        <device id="pixel" />
+        <device id="Nexus 5X" />
+        <device id="Nexus 10" />
+        <device id="pixel_c" />
+        <device id="Nexus 9" />
+      </config>
     </shared>
   </component>
   <component name="AndroidLogFilters">
@@ -11,41 +22,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ad3e125-b503-44f9-af92-5248e6b00a66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_biubiubiu_justifytext_library_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/frame2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/Rabban1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/ShowActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/ShowActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban11.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban12.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban13.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban14.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban15.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban16.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban17.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban18.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban19.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban20.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_pressed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_pressed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban19.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban20.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_show.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_show.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
@@ -61,7 +139,17 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Rabbana Dua" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -103,46 +191,50 @@
     <session id="1493782355">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.121" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="623" />
-          <entry key="txt" value="60" />
-          <entry key="xml" value="3009" />
+          <entry key="gradle" value="7" />
+          <entry key="java" value="1235" />
+          <entry key="txt" value="63" />
+          <entry key="xml" value="4111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="623" />
-          <entry key="PLAIN_TEXT" value="60" />
-          <entry key="XML" value="3009" />
+          <entry key="Groovy" value="7" />
+          <entry key="JAVA" value="1235" />
+          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="XML" value="4111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Translations Editor" value="1" />
-          <entry key="gradle" value="1" />
-          <entry key="java" value="31" />
+          <entry key="gradle" value="3" />
+          <entry key="java" value="135" />
           <entry key="png" value="1" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="30" />
+          <entry key="xml" value="251" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="" value="1" />
-          <entry key="Groovy" value="1" />
+          <entry key="Groovy" value="3" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="135" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="30" />
+          <entry key="XML" value="251" />
         </counts>
       </usages-collector>
     </session>
@@ -150,123 +242,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#751#893#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding>
-                <element signature="e#751#893#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#752#894#0" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="68" column="79" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="80" />
+            <state relative-caret-position="-3995">
+              <caret line="203" column="32" selection-start-line="203" selection-start-column="18" selection-end-line="203" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban17.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban26.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#751#893#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban18.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#751#893#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban19.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#752#894#0" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#751#893#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="395">
+              <caret line="92" column="48" lean-forward="true" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban18.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban25.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="125" column="50" selection-start-line="125" selection-start-column="50" selection-end-line="125" selection-end-column="50" />
+            <state relative-caret-position="242">
+              <caret line="85" column="41" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="41" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban35.xml">
           <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban36.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban37.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban38.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban39.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban40.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -298,43 +369,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/rectangle.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_pressed.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/circle_btn.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/fragment/FacebookFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/ItemPick.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/Rabban1.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_facebook.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/test.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_show.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban1.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/rabban11.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban11.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban13.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban14.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban15.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban16.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban17.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban19.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban20.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban34.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban35.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban36.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban37.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban38.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban39.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban40.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/ShowActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban12.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban13.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban14.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban15.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban16.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban17.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban18.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban19.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban20.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban1.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban5.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban22.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban21.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban20.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban19.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban18.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban17.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban16.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban15.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban14.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban13.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban11.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban10.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban1.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban3.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban4.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban6.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban7.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban8.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban9.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban23.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban24.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban25.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban27.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban28.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban29.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban30.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban31.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban32.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban33.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban34.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban35.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban36.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban37.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban38.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban39.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban40.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_rabban26.xml" />
       </list>
     </option>
   </component>
@@ -350,8 +435,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -378,13 +463,6 @@
             <path>
               <item name="Rabbana Dua" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="rabbanadua" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="rabbana_activity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Rabbana Dua" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
@@ -407,7 +485,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,15 +497,19 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="8b7ad09a7d14" />
     <property name="format" value="PNG" />
-    <property name="lastFolderRoot" value="$USER_HOME$/Desktop/android pic/refreash.png" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/android pic/refreash.png" />
+    <property name="lastFolderRoot" value="$USER_HOME$/Desktop/frame2.png" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/frame2.png" />
     <property name="method" value="Automatic" />
-    <property name="resolutions" value="XXXHDPI&#10;HDPI&#10;XXHDPI&#10;MDPI&#10;XHDPI" />
+    <property name="resolutions" value="XXXHDPI&#10;XXHDPI&#10;MDPI&#10;HDPI&#10;XHDPI" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="sourceResolution" value="XHDPI" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hrido\Downloads\Compressed\Rabbana Dua\app\src\main\res\layout" />
+      <recent name="C:\Users\hrido\Downloads\Compressed\Rabbana Dua\app\src\main\java\com\eomsbd\rabbanadua\rabbana_activity" />
+    </key>
     <key name="android.template.packageName">
       <recent name="com.eomsbd.rabbanadua.rabbana_activity" />
       <recent name="com.eomsbd.rabbanadua" />
@@ -558,9 +640,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1709531" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1762481" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -573,20 +656,20 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3276923" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32923076" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.3276923" />
-      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32923076" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3276923" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3276923" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Flutter Performance" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="right" id="StringPreview" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.35854766" />
+      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.3721634" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Flutter Inspector" order="6" />
-      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Outline" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="StringPreview" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -626,430 +709,408 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban37.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="80" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
+        <state relative-caret-position="221">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/Facebook.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/circle_btn.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban38.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="204">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rectangle.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban39.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="3" selection-start-column="3" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="187">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button_pressed.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban40.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state relative-caret-position="221">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/ItemPick.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_facebook.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        <state>
+          <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="204">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="android-dummy://C:/Users/hrido/Downloads/Compressed/Rabbana Dua/app/Translations Editor">
-      <provider selected="true" editor-type-id="string-resource-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b03d63650492427a96b561138babf2b1/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/fragment/FacebookFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_show.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3910">
-          <caret line="233" column="22" selection-start-line="233" selection-start-column="22" selection-end-line="233" selection-end-column="22" />
-          <folding>
-            <element signature="e#9045#9062#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="24" column="31" selection-start-line="22" selection-start-column="6" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#741#883#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="40" selection-end-line="243" selection-end-column="46" />
-          <folding>
-            <element signature="e#3541#3560#0" expanded="true" />
-            <element signature="e#4427#4445#0" expanded="true" />
-            <element signature="e#5274#5297#0" expanded="true" />
-            <element signature="e#5980#6003#0" expanded="true" />
-            <element signature="e#6854#6876#0" expanded="true" />
-            <element signature="e#7558#7575#0" expanded="true" />
-            <element signature="e#8345#8370#0" expanded="true" />
-            <element signature="e#9052#9069#0" expanded="true" />
-            <element signature="e#9861#9880#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban11.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
-          <folding>
-            <element signature="e#3537#3556#0" expanded="true" />
-            <element signature="e#4423#4440#0" expanded="true" />
-            <element signature="e#5269#5292#0" expanded="true" />
-            <element signature="e#5975#5998#0" expanded="true" />
-            <element signature="e#6849#6871#0" expanded="true" />
-            <element signature="e#7552#7569#0" expanded="true" />
-            <element signature="e#8340#8365#0" expanded="true" />
-            <element signature="e#9045#9062#0" expanded="true" />
-            <element signature="e#9805#9824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban13.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="227" column="34" selection-end-line="243" selection-end-column="46" />
-          <folding>
-            <element signature="e#3542#3561#0" expanded="true" />
-            <element signature="e#4428#4446#0" expanded="true" />
-            <element signature="e#5275#5298#0" expanded="true" />
-            <element signature="e#5982#6005#0" expanded="true" />
-            <element signature="e#6855#6877#0" expanded="true" />
-            <element signature="e#7560#7577#0" expanded="true" />
-            <element signature="e#8346#8371#0" expanded="true" />
-            <element signature="e#9054#9071#0" expanded="true" />
-            <element signature="e#9862#9881#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban14.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="229" column="47" selection-end-line="243" selection-end-column="46" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban15.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="229" column="47" selection-start-line="229" selection-start-column="47" selection-end-line="229" selection-end-column="47" />
-          <folding>
-            <element signature="e#3542#3561#0" expanded="true" />
-            <element signature="e#4428#4446#0" expanded="true" />
-            <element signature="e#5277#5300#0" expanded="true" />
-            <element signature="e#5984#6007#0" expanded="true" />
-            <element signature="e#6857#6879#0" expanded="true" />
-            <element signature="e#7562#7579#0" expanded="true" />
-            <element signature="e#8348#8373#0" expanded="true" />
-            <element signature="e#9056#9073#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban16.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="229" column="47" selection-start-line="229" selection-start-column="47" selection-end-line="229" selection-end-column="47" />
-          <folding>
-            <element signature="e#3542#3561#0" expanded="true" />
-            <element signature="e#4428#4447#0" expanded="true" />
-            <element signature="e#5278#5301#0" expanded="true" />
-            <element signature="e#5984#6007#0" expanded="true" />
-            <element signature="e#6858#6880#0" expanded="true" />
-            <element signature="e#7562#7579#0" expanded="true" />
-            <element signature="e#8349#8374#0" expanded="true" />
-            <element signature="e#9056#9073#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban17.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="79" column="8" selection-end-line="243" selection-end-column="46" />
-          <folding>
-            <element signature="e#3542#3561#0" expanded="true" />
-            <element signature="e#4428#4447#0" expanded="true" />
-            <element signature="e#5278#5301#0" expanded="true" />
-            <element signature="e#5984#6007#0" expanded="true" />
-            <element signature="e#6858#6880#0" expanded="true" />
-            <element signature="e#7562#7579#0" expanded="true" />
-            <element signature="e#8349#8374#0" expanded="true" />
-            <element signature="e#9056#9073#0" expanded="true" />
-            <element signature="e#9864#9883#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban19.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="229" column="47" selection-start-line="229" selection-start-column="47" selection-end-line="229" selection-end-column="47" />
-          <folding>
-            <element signature="e#3542#3561#0" expanded="true" />
-            <element signature="e#4428#4446#0" expanded="true" />
-            <element signature="e#5277#5300#0" expanded="true" />
-            <element signature="e#5985#6008#0" expanded="true" />
-            <element signature="e#6857#6879#0" expanded="true" />
-            <element signature="e#7563#7580#0" expanded="true" />
-            <element signature="e#8348#8373#0" expanded="true" />
-            <element signature="e#9057#9074#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban20.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="229" column="47" selection-start-line="229" selection-start-column="47" selection-end-line="229" selection-end-column="47" />
-          <folding>
-            <element signature="e#3542#3561#0" expanded="true" />
-            <element signature="e#4428#4445#0" expanded="true" />
-            <element signature="e#5276#5299#0" expanded="true" />
-            <element signature="e#5985#6008#0" expanded="true" />
-            <element signature="e#6856#6878#0" expanded="true" />
-            <element signature="e#7563#7580#0" expanded="true" />
-            <element signature="e#8347#8372#0" expanded="true" />
-            <element signature="e#9057#9074#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="279">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/ShowActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1061">
-          <caret line="85" column="67" lean-forward="true" selection-start-line="85" selection-start-column="67" selection-end-line="85" selection-end-column="67" />
-          <folding>
-            <element signature="e#1062#3498#0" expanded="true" />
-            <element signature="e#3497#3498#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="11" selection-start-line="17" selection-start-column="8" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#751#893#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding>
-            <element signature="e#751#893#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#752#894#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="109">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban22.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding>
-            <element signature="e#751#893#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#4693#4710#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban15.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban21.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-          <folding>
-            <element signature="e#751#893#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban16.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban20.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#752#894#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban17.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban2.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#751#893#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban18.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban19.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#751#893#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#752#894#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/eomsbd/rabbanadua/rabbana_activity/Rabban20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#751#893#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="68" column="79" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="80" />
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban18.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="125" column="50" selection-start-line="125" selection-start-column="50" selection-end-line="125" selection-end-column="50" />
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban17.xml">
       <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban16.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban15.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban14.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban13.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban11.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban10.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban4.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban5.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban6.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban7.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban8.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban9.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_show.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban23.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban1.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban24.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban27.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban28.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban29.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban3.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban30.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban31.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban32.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban33.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban34.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban35.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban36.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban37.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban38.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban39.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban40.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban12.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3995">
+          <caret line="203" column="32" selection-start-line="203" selection-start-column="18" selection-end-line="203" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban26.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="92" column="48" lean-forward="true" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_rabban25.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="85" column="41" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="41" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

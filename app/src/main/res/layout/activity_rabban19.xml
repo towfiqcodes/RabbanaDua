@@ -2,9 +2,10 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    tools:context=".rabbana_activity.Rabban13">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEE6D7"
+    tools:context=".rabbana_activity.Rabban19">
 
     <android.support.constraint.ConstraintLayout
         android:id="@+id/layout"
@@ -45,7 +46,7 @@
 
         <LinearLayout
             android:id="@+id/linearLayout2"
-            android:layout_width="110dp"
+            android:layout_width="137dp"
             android:layout_height="40dp"
             android:background="@drawable/button_pressed"
             android:orientation="horizontal"
@@ -78,23 +79,24 @@
         tools:ignore="MissingConstraints">
 
         <android.support.constraint.ConstraintLayout
+            android:id="@+id/raabbana19"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
             <TextView
 
                 android:id="@+id/textView"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
-                android:layout_marginTop="70dp"
+                android:layout_marginTop="50dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginRight="8dp"
                 android:gravity="center_horizontal"
                 android:text="@string/rabbana19"
                 android:textColor="@color/colorAccent"
                 android:textIsSelectable="true"
-                android:textSize="35sp"
+                android:textSize="30sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
@@ -113,7 +115,7 @@
                 android:text="@string/aiyat114"
                 android:textColor="@android:color/black"
                 android:textIsSelectable="true"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView"
@@ -121,7 +123,7 @@
 
             <TextView
                 android:id="@+id/textView3"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
@@ -158,14 +160,14 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginTop="16dp"
-                android:layout_marginEnd="8dp"
-                android:layout_marginRight="32dp"
+                android:layout_marginEnd="50dp"
+                android:layout_marginRight="50dp"
                 android:gravity="center_horizontal|start"
                 android:padding="5dp"
                 android:text="@string/arabic_pro19"
                 android:textColor="@android:color/black"
                 android:textIsSelectable="true"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView4" />
@@ -191,13 +193,13 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginTop="8dp"
-                android:layout_marginEnd="8dp"
-                android:layout_marginRight="16dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
                 android:gravity="center_horizontal|start"
                 android:text="@string/arabic_answer19"
                 android:textColor="@android:color/black"
                 android:textIsSelectable="true"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView6" />
@@ -224,13 +226,13 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginTop="8dp"
-                android:layout_marginEnd="8dp"
-                android:layout_marginRight="8dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
                 android:layout_marginBottom="64dp"
                 android:text="@string/fojilot19"
                 android:textColor="@android:color/black"
                 android:textIsSelectable="true"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
