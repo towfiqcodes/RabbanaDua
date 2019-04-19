@@ -24,7 +24,7 @@
             android:gravity="center"
             android:src="@drawable/ic_launcher_background"
             android:text="৪০ রাব্বানা দোয়া"
-            android:textColor="#79A7F3"
+            android:textColor="#887638"
             android:textSize="25sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"

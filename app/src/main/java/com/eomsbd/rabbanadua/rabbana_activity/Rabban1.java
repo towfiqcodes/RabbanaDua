@@ -46,13 +46,6 @@ public class Rabban1 extends AppCompatActivity {
 
         String name = getIntent().getStringExtra("name");
         textView.setText(name);
-
-
-
-
-
-
-
         linearLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

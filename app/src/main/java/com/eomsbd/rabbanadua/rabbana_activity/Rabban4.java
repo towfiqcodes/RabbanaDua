@@ -20,12 +20,8 @@ public class Rabban4 extends AppCompatActivity {
 
         linearLayout=findViewById(R.id.backButton4);
         textView=findViewById(R.id.name4);
-
         String name=getIntent().getStringExtra("name");
-
         textView.setText(name);
-
-
         linearLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

@@ -21,13 +21,12 @@ public class Rabban2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_rabban2);
 
-        linearLayout=findViewById(R.id.backButton2);
-        textView=findViewById(R.id.name2);
+        linearLayout = findViewById(R.id.backButton2);
+        textView = findViewById(R.id.name2);
 
         textView5 = findViewById(R.id.textView5);
         textView7 = findViewById(R.id.textView7);
         textView9 = findViewById(R.id.textView9);
-
 
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
@@ -37,11 +36,8 @@ public class Rabban2 extends AppCompatActivity {
         }
 
 
-        String name=getIntent().getStringExtra("name");
-
+        String name = getIntent().getStringExtra("name");
         textView.setText(name);
-
-
         linearLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
