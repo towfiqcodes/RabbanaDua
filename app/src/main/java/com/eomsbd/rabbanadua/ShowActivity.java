@@ -1,6 +1,9 @@
 package com.eomsbd.rabbanadua;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -50,17 +53,54 @@ import com.eomsbd.rabbanadua.rabbana_activity.Rabban7;
 import com.eomsbd.rabbanadua.rabbana_activity.Rabban8;
 import com.eomsbd.rabbanadua.rabbana_activity.Rabban9;
 
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import pl.droidsonroids.gif.GifImageView;
+
 public class ShowActivity extends AppCompatActivity {
-
+    private SharedPreferences prefs;
+    private SharedPreferences.Editor editor;
     ListView listView;
-
     LinearLayout button1;
+    ConnectionClass connectionClass;
+    private int totalCount;
+    GifImageView gifImageView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_show);
         button1 = findViewById(R.id.button1);
+      //  connectionClass=new ConnectionClass();
+        gifImageView=findViewById(R.id.imageView);
+        prefs = getPreferences(Context.MODE_PRIVATE);
+        editor = prefs.edit();
+        gifImageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                totalCount = prefs.getInt("counter", 0);
+                totalCount++;
+                editor.putInt("counter", totalCount);
+                editor.commit();
+                //  Toast.makeText(ShowActivity.this,""+String.valueOf(Integer.valueOf(totalCount)),Toast.LENGTH_SHORT).show();
+                // Log.d("ShowActivity", );
+                /*Connection con=connectionClass.CONN();
+                try {
+                    String query="insert into info values('"+totalCount+"')";
+                    Statement stmt=con.createStatement();
+                    stmt.executeUpdate(query);
+                } catch (SQLException e) {
+                    e.printStackTrace();
+                }
+*/
+
+                Intent link=new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=com.barta24"));
+                startActivity(link);
+            }
+        });
+
         listView = findViewById(R.id.list_item);
         String[] item = getResources().getStringArray(R.array.data);
         bacKButton();

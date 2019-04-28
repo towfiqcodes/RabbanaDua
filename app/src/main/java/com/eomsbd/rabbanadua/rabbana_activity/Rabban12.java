@@ -15,7 +15,7 @@ import static android.text.Layout.JUSTIFICATION_MODE_INTER_WORD;
 
 public class Rabban12 extends AppCompatActivity {
     LinearLayout linearLayout;
-    TextView textView,textView5, textView7, textView9;
+    TextView textView;
 
 
     @Override
@@ -24,15 +24,6 @@ public class Rabban12 extends AppCompatActivity {
         setContentView(R.layout.activity_rabban12);
         textView=findViewById(R.id.name12);
 
-        textView5 = findViewById(R.id.textView5);
-        textView7 = findViewById(R.id.textView7);
-        textView9 = findViewById(R.id.textView9);
-
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            textView5.setJustificationMode(JUSTIFICATION_MODE_INTER_WORD);
-            textView7.setJustificationMode(JUSTIFICATION_MODE_INTER_WORD);
-            textView9.setJustificationMode(JUSTIFICATION_MODE_INTER_WORD);
-        }
 
         String name=getIntent().getStringExtra("name");
         textView.setText(name);
